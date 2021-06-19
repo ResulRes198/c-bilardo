@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "592546382429",
+    "firebase_url": "https://cryptopool-89c78-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "cryptopool-89c78",
+    "storage_bucket": "cryptopool-89c78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592546382429:android:a26ec90c3edfb222cd03b4",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.CryptoPool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592546382429-ksrujb2msakgc738c1jl8cflfaljui8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPT3GVspcoReGq0dnsR7T0XhIA5uKBYco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592546382429-ksrujb2msakgc738c1jl8cflfaljui8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

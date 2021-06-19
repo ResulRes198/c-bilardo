@@ -1,0 +1,2 @@
+C:\Users\burak\Documents\GitHub\CryptoPool\obj\Debug\PhotonUnityNetworking.Utilities.csprojAssemblyReference.cache
+C:\Users\burak\Documents\GitHub\CryptoPool\obj\Debug\PhotonUnityNetworking.Utilities.csproj.CoreCompileInputs.cache
